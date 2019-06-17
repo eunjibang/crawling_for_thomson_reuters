@@ -2,16 +2,8 @@
 """
 Created on Mon Jun 17 14:33:34 2019
 
-@author: User
+@author: eunji bang
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 17 20:18:43 2019
-
-@author: User
-"""
-
 
 import pandas as pd
 import os
